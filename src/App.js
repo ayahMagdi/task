@@ -17,7 +17,7 @@ function App() {
             <div className='flex'>
                 <Sidebar />
                   <Routes>
-                     <Route exact path="/" element={<Content />} />
+                     <Route exact path="/task" element={<Content />} />
                      <Route path="/tasks" element={<TasksContent />} />
                      <Route path="/statistics" element={<StatisticsPage />} />
                      <Route path="/dailytasks" element={<DailyTasksPage />} />
