@@ -3,7 +3,6 @@ import Content from './components/Content';
 import LeftContent from './components/LeftContent';
 import Sidebar from './components/Sidebar';
 import {
-  BrowserRouter as Router,
   Routes,
   Route,
 } from "react-router-dom";
@@ -15,7 +14,6 @@ import DailyTasksPage from './pages/DailyTasksPage';
 function App() {
   return (
     <div className="App">
-      <Router>
             <div className='flex'>
                 <Sidebar />
                   <Routes>
@@ -27,7 +25,6 @@ function App() {
                   </Routes>
                 <LeftContent />
             </div>
-      </Router>
     </div>
   );
 }
