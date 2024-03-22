@@ -24,6 +24,28 @@
   color: white;
 }
 
+.react-calendar {
+  background: #F5F5F5 !important;
+  border-radius: 8px;
+  border: none !important;
+  padding: 20px 15px;
+}
+.react-calendar__navigation {
+  display: none !important;
+}
+.react-calendar__tile--now {
+  background: #2169B1 !important;
+  color: #FFF !important;
+  border-radius: 10px;
+}
+.react-calendar__month-view__days__day--weekend{
+  color: #000;
+}
+abbr:where([title]){
+  text-decoration: none !important;
+  font-size: 12px;
+}
+
 .App-link {
   color: #61dafb;
 }
