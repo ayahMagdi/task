@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/task/static/css/main.1cf4fb2c.css",
+    "main.js": "/task/static/js/main.b57e013a.js",
+    "static/js/453.ed3810f9.chunk.js": "/task/static/js/453.ed3810f9.chunk.js",
+    "static/media/user.png": "/task/static/media/user.291d07c2380fe27a279b.png",
+    "static/media/Time management-amico 1.png": "/task/static/media/Time management-amico 1.11a0d9c8075791a53cf0.png",
+    "static/media/Medium_Traffic.png": "/task/static/media/Medium_Traffic.a984d969dd2f57767f42.png",
+    "static/media/Calendar.png": "/task/static/media/Calendar.84e7efd6950d14234940.png",
+    "static/media/Design community-pana 1.png": "/task/static/media/Design community-pana 1.dc5c154a112d5a33f432.png",
+    "static/media/Group 21 3 (1).png": "/task/static/media/Group 21 3 (1).ef0cf67e4a3737eab122.png",
+    "static/media/Large_Double Chart2.png": "/task/static/media/Large_Double Chart2.d3bba83a432ad6e910db.png",
+    "static/media/Medium_Pie Chart.png": "/task/static/media/Medium_Pie Chart.de55702682e5422780d5.png",
+    "static/media/notification.png": "/task/static/media/notification.d28da48d24c42c95ac2b.png",
+    "static/media/Medium_Tasks.png": "/task/static/media/Medium_Tasks.31c25fd80dae78cc61f3.png",
+    "index.html": "/task/index.html",
+    "main.1cf4fb2c.css.map": "/task/static/css/main.1cf4fb2c.css.map",
+    "main.b57e013a.js.map": "/task/static/js/main.b57e013a.js.map",
+    "453.ed3810f9.chunk.js.map": "/task/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cf4fb2c.css",
+    "static/js/main.b57e013a.js"
+  ]
+}
